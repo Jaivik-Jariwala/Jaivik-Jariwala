@@ -1,6 +1,6 @@
 ### Hey there 👋
 
-<img src="https://user-images.githubusercontent.com/74038190h/221352982-8db913c4-1ba0-4674-9fb7-cc2cd71b0443.gif" width="400">
+<img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="500">
 
 Jaivik Jariwala - Machine Learning Engineer, Researcher, Web/Graphic Freelancer
 

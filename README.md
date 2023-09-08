@@ -1,6 +1,6 @@
 ### Hey there 👋
 
-<img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="500">
+<img src="https://assets.pinterest.com/ext/embed.html?id=286260120057498951" width="500">
 
 Jaivik Jariwala - Machine Learning Engineer, Researcher, Web/Graphic Freelancer
 
@@ -9,6 +9,10 @@ Jaivik Jariwala - Machine Learning Engineer, Researcher, Web/Graphic Freelancer
 🌱 Currently, I am an intern at Nothing Technology Limited, working as part of Generation Nothing. I've had the opportunity to collaborate on various projects as an Analyst for Marketing.
 
 🌿 Additionally, I serve as the President of EnviroFreaks, where my role involves leading environmental initiatives, resource management, and organizing impactful events to inspire environmental stewardship. Sustainability and community engagement are at the heart of our mission.
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+
+## Skills
 
 **Machine Learning**
 
@@ -33,6 +37,8 @@ Jaivik Jariwala - Machine Learning Engineer, Researcher, Web/Graphic Freelancer
 **Graphic Designing and UI/UX**
 
 ![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-30302f?style=for-the-badge&color=green) ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-30302f?style=for-the-badge&color=orange) ![Adobe Firefly](https://img.shields.io/badge/Adobe%20Firefly-30302f?style=for-the-badge&color=purple) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-30302f?style=for-the-badge&color=red) ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-30302f?style=for-the-badge&color=blue) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-30302f?style=for-the-badge&color=green) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-30302f?style=for-the-badge&color=orange) ![Prototyping](https://img.shields.io/badge/Prototyping-30302f?style=for-the-badge&color=purple) ![Wireframing](https://img.shields.io/badge/Wireframing-30302f?style=for-the-badge&color=red)
+
+
 
 ## Let's connect and build amazing things together!
 [![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/Jaivik-Jariwala)

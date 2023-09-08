@@ -1,6 +1,7 @@
 ### Hey there 👋
 
 <img src="https://user-images.githubusercontent.com/74038190h/221352982-8db913c4-1ba0-4674-9fb7-cc2cd71b0443.gif" width="400">
+
 Jaivik Jariwala - Machine Learning Engineer, Researcher, Web/Graphic Freelancer
 
 👨‍💻 I'm Jaivik Jariwala, a B.Tech student at Pandit Deendayal Energy University, with a passion for technology and a focus on machine learning. I'm also a skilled web and graphic designer, and I'm actively involved in open-source projects.

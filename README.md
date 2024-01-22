@@ -1,14 +1,13 @@
 ### Hey there 👋
 
-![Image Description](https://direct-image-link.com/image.jpg)
+Jaivik Jariwala - Student @PDEU | AI Researcher @PDEU | ML Engineer | Image Processing & Computer Vision Engineer | Embedded Robotic System Engineer | Intern @iNav Labs
 
-Jaivik Jariwala - Machine Learning Engineer, Researcher, Web/Graphic Freelancer
-
-👨‍💻 I'm Jaivik Jariwala, a B.Tech student at Pandit Deendayal Energy University, with a passion for technology and a focus on machine learning. I'm also a skilled web and graphic designer, and I'm actively involved in open-source projects.
-
-🌱 Currently, I am an intern at Nothing Technology Limited, working as part of Generation Nothing. I've had the opportunity to collaborate on various projects as an Analyst for Marketing.
-
-🌿 Additionally, I serve as the President of EnviroFreaks, where my role involves leading environmental initiatives, resource management, and organizing impactful events to inspire environmental stewardship. Sustainability and community engagement are at the heart of our mission.
+👨‍💻I am a Currently Interning on developing autonomous driving systems at iNav Labs. Specializing in Computer Vision
+using machine learning, I contribute to hardware and software design for autonomous vehicles. With a strong academic
+background in Computer Science (8.9 CGPA), I showcase leadership as the President of EnviroFreaks, leading successful
+environmental initiatives. Certified in Machine Learning and Generative Adversarial Networks, I possess skills in machine learning, deep learning, computer vision, Python programming, robotics, cloud computing, project management, and
+graphic design/UI/UX. Active in conferences, hackathons, and volunteering, I bring a valuable blend of technical proficiency,
+leadership, and innovation to the tech landscape.
 
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 

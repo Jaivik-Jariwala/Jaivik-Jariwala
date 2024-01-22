@@ -1,6 +1,6 @@
 ### Hey there 👋
 
-<img src="https://assets.pinterest.com/ext/embed.html?id=286260120057498951" width="500">
+![Image Description](https://direct-image-link.com/image.jpg)
 
 Jaivik Jariwala - Machine Learning Engineer, Researcher, Web/Graphic Freelancer
 

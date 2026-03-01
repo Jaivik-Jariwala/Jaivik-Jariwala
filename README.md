@@ -69,14 +69,10 @@
 
 ---
 
-### 🐍 My Open Source Contributions
+### 🐺 Cyber Wolf Animation
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jaivik-Jariwala/Jaivik-Jariwala/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jaivik-Jariwala/Jaivik-Jariwala/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Jaivik-Jariwala/Jaivik-Jariwala/output/github-contribution-grid-snake.svg">
-  </picture>
+  <img src="https://i.pinimg.com/originals/c6/c2/ea/c6c2ea071a9959e45d5afecb93339ed9.gif" width="400" alt="Cyber Wolf Animation">
 </div>
 
 ---

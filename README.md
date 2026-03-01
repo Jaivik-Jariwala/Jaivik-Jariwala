@@ -1,46 +1,109 @@
-### Hey there 👋
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi%20there,%20I'm%20Jaivik!&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Machine%20Learning%20%26%20Computer%20Vision%20Engineer&descAlignY=55&descAlign=50" />
+</div>
 
-Jaivik Jariwala - Student @PDEU | AI Researcher @PDEU | ML Engineer | Image Processing & Computer Vision Engineer | Embedded Robotic System Engineer | Intern @iNav Labs
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2E95D3&center=true&vCenter=true&width=800&lines=Specializing+in+Multimodal+AI+%26+Edge+Computing;Bridging+Theoretical+Research+%26+Industrial+Deployment;Architecting+Defense-Grade+Vision+Systems;Developing+GPU-Accelerated+RAG+Pipelines" alt="Typing SVG" />
+  </a>
+</div>
 
-👨‍💻I am a Currently Interning on developing autonomous driving systems at iNav Labs. Specializing in Computer Vision
-using machine learning, I contribute to hardware and software design for autonomous vehicles. With a strong academic
-background in Computer Science (8.9 CGPA), I showcase leadership as the President of EnviroFreaks, leading successful
-environmental initiatives. Certified in Machine Learning and Generative Adversarial Networks, I possess skills in machine learning, deep learning, computer vision, Python programming, robotics, cloud computing, project management, and
-graphic design/UI/UX. Active in conferences, hackathons, and volunteering, I bring a valuable blend of technical proficiency,
-leadership, and innovation to the tech landscape.
+---
 
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+### 👨‍💻 About Me
 
-## Skills
+[cite_start]I am a research-focused engineer with a strong mathematical foundation in Linear Algebra, Probability, and Convex Optimization[cite: 10]. [cite_start]Backed by a B.Tech in Computer Science and Engineering from Pandit Deendayal Energy University (8.58 CGPA) [cite: 48, 67][cite_start], I specialize in bridging the gap between theoretical AI research and scalable, high-impact industrial deployment[cite: 11]. 
 
-**Machine Learning**
+[cite_start]I view my career as a continuous process of intellectual expansion, driven by a philosophy of consistent iteration—treating every model and project as an opportunity to elevate my standard of work[cite: 259, 262].
 
-![Linear Regression](https://img.shields.io/badge/Linear%20Regression-30302f?style=for-the-badge&color=blue) ![Logistic Regression](https://img.shields.io/badge/Logistic%20Regression-30302f?style=for-the-badge&color=green) ![Gradient Descent](https://img.shields.io/badge/Gradient%20Descent-30302f?style=for-the-badge&color=orange) ![Supervised Learning](https://img.shields.io/badge/Supervised%20Learning-30302f?style=for-the-badge&color=purple) ![Regularization](https://img.shields.io/badge/Regularization-30302f?style=for-the-badge&color=red) ![Neural Network](https://img.shields.io/badge/Neural%20Network-30302f?style=for-the-badge&color=blue) ![Xgboost](https://img.shields.io/badge/Xgboost-30302f?style=for-the-badge&color=green) ![Tensorflow](https://img.shields.io/badge/Tensorflow-30302f?style=for-the-badge&color=orange) ![Collaborative Filtering](https://img.shields.io/badge/Collaborative%20Filtering-30302f?style=for-the-badge&color=purple) ![Recommender Systems](https://img.shields.io/badge/Recommender%20Systems-30302f?style=for-the-badge&color=red) ![Reinforcement Learning](https://img.shields.io/badge/Reinforcement%20Learning-30302f?style=for-the-badge&color=blue) ![Anomaly Detection](https://img.shields.io/badge/Anomaly%20Detection-30302f?style=for-the-badge&color=green) ![Content Filtering](https://img.shields.io/badge/Content%20Filtering-30302f?style=for-the-badge&color=orange)
+### 🚀 High-Impact Experience
 
-**Deep Learning**
+* 🏢 **JSW MG Motor India** | [cite_start]*AI Intern (Manufacturing & VAVE)* [cite: 15]
+    * [cite_start]Architected a GPU-accelerated Multimodal RAG pipeline integrating GPT-3 and Salesforce BLIP for automated cost-analysis and vision-language interpretation[cite: 17, 19].
+    * [cite_start]Engineered a semantic search pipeline using FAISS and MiniLM on 15,000+ documents, achieving <100ms latency to optimize strategic decision-making[cite: 18].
+* 🛡️ **Indian Army / Maharishi Industries** | [cite_start]*AI & Product Engineering Intern* [cite: 22, 26, 32]
+    * [cite_start]Designed a defense-grade, GPU-accelerated surveillance system on NVIDIA Jetson Orin for real-time autonomous threat detection in high-risk zones (Kupwara & Rajouri)[cite: 26, 29].
+    * [cite_start]Achieved 97.8% evaluation accuracy by developing Transformer-CNN fusion models and integrating military-grade sensor suites (Radar, Thermal)[cite: 26, 27].
+* 🔬 **IIT Bombay** | [cite_start]*Data Science Research Intern* [cite: 34]
+    * [cite_start]Processed 100GB+ of raw telematics data, utilizing YOLOv10 and ReDTR to model complex driver kinematics[cite: 38, 39].
+    * [cite_start]Demonstrated the superiority of deep learning sequence models (LSTM, BERT) over classical baselines, achieving 90-92% accuracy for mobility data[cite: 42, 43].
 
-![Neural Network Architecture](https://img.shields.io/badge/Neural%20Network%20Architecture-30302f?style=for-the-badge&color=purple) ![Backpropagation](https://img.shields.io/badge/Backpropagation-30302f?style=for-the-badge&color=red) ![Forward Propagation](https://img.shields.io/badge/Forward%20Propagation-30302f?style=for-the-badge&color=blue) ![Tensorflow](https://img.shields.io/badge/Tensorflow-30302f?style=for-the-badge&color=green) ![Mathematical Optimization](https://img.shields.io/badge/Mathematical%20Optimization-30302f?style=for-the-badge&color=orange) ![Facial Recognition System](https://img.shields.io/badge/Facial%20Recognition%20System-30302f?style=for-the-badge&color=purple) ![Object Detection and Segmentation](https://img.shields.io/badge/Object%20Detection%20and%20Segmentation-30302f?style=for-the-badge&color=red) ![CNNs](https://img.shields.io/badge/CNNs-30302f?style=for-the-badge&color=blue) ![RNNs](https://img.shields.io/badge/RNNs-30302f?style=for-the-badge&color=green) ![GRUs](https://img.shields.io/badge/GRUs-30302f?style=for-the-badge&color=orange) ![Attention Models](https://img.shields.io/badge/Attention%20Models-30302f?style=for-the-badge&color=purple) ![Multi-Task Learning](https://img.shields.io/badge/Multi%20Task%20Learning-30302f?style=for-the-badge&color=red) ![Inductive Transfer](https://img.shields.io/badge/Inductive%20Transfer-30302f?style=for-the-badge&color=blue) ![Hyperparameter Tuning](https://img.shields.io/badge/Hyperparameter%20Tuning-30302f?style=for-the-badge&color=green)
+### 🧠 Research & Publications
 
-**Cloud Computing**
+* [cite_start]📄 **India Strategy Conference 2025:** *Accelerating Strategic Decision-Making through Artificial Intelligence*[cite: 20, 222].
+* [cite_start]📄 **Springer ICT4SD 2024:** *A Review: Implementation of Partially and Fully Homomorphic Encryption on Cloud Computing*[cite: 207, 208].
+* [cite_start]📄 **Transportation Research Board (TRB):** Acknowledged for applying AI in enhancing real-world transportation safety systems[cite: 45].
 
-![Statistical Data Bias Detection](https://img.shields.io/badge/Statistical%20Data%20Bias%20Detection-30302f?style=for-the-badge&color=orange) ![Multiclass Classification with FastText](https://img.shields.io/badge/Multiclass%20Classification%20with%20FastText-30302f?style=for-the-badge&color=purple) ![Data Ingestion](https://img.shields.io/badge/Data%20Ingestion-30302f?style=for-the-badge&color=red) ![Automatic Machine Learning](https://img.shields.io/badge/Automatic%20Machine%20Learning-30302f?style=for-the-badge&color=blue) ![ML Pipelines](https://img.shields.io/badge/ML%20Pipelines-30302f?style=for-the-badge&color=green) ![BERT Deployment](https://img.shields.io/badge/BERT%20Deployment-30302f?style=for-the-badge&color=orange) ![Feature Engineering](https://img.shields.io/badge/Feature%20Engineering-30302f?style=for-the-badge&color=purple) ![Distributed Models](https://img.shields.io/badge/Distributed%20Models-30302f?style=for-the-badge&color=red) ![A/B Testing Model and Deployment](https://img.shields.io/badge/A%2FB%20Testing%20Model%20and%20Deployment-30302f?style=for-the-badge&color=blue) ![Cost Saving and Performance Improvements](https://img.shields.io/badge/Cost%20Saving%20and%20Performance%20Improvements-30302f?style=for-the-badge&color=green) ![Google Compute Engine](https://img.shields.io/badge/Google%20Compute%20Engine-30302f?style=for-the-badge&color=orange) ![Google App Engine](https://img.shields.io/badge/Google%20App%20Engine-30302f?style=for-the-badge&color=purple) ![GCP](https://img.shields.io/badge/GCP-30302f?style=for-the-badge&color=red) ![Load balancing](https://img.shields.io/badge/Load%20balancing-30302f?style=for-the-badge&color=blue) ![VPNs](https://img.shields.io/badge/VPNs-30302f?style=for-the-badge&color=green) ![AutoScaling](https://img.shields.io/badge/AutoScaling-30302f?style=for-the-badge&color=orange) ![GCP Infrastructure](https://img.shields.io/badge/GCP%20Infrastructure-30302f?style=for-the-badge&color=purple) ![Load Balancing](https://img.shields.io/badge/Load%20Balancing-30302f?style=for-the-badge&color=red)
+---
 
-**Project Management**
+### 🛠️ Technical Arsenal
 
-![Organizational Culture](https://img.shields.io/badge/Organizational%20Culture-30302f?style=for-the-badge&color=blue) ![Career Development](https://img.shields.io/badge/Career%20Development-30302f?style=for-the-badge&color=green) ![Strategic Thinking](https://img.shields.io/badge/Strategic%20Thinking-30302f?style=for-the-badge&color=orange) ![Change Management](https://img.shields.io/badge/Change%20Management-30302f?style=for-the-badge&color=purple) ![Project Management](https://img.shields.io/badge/Project%20Management-30302f?style=for-the-badge&color=red) ![Stakeholder Management](https://img.shields.io/badge/Stakeholder%20Management-30302f?style=for-the-badge&color=blue) ![Business Writing](https://img.shields.io/badge/Business%20Writing-30302f?style=for-the-badge&color=green) ![Project Charter](https://img.shields.io/badge/Project%20Charter-30302f?style=for-the-badge&color=orange) ![Project Planning](https://img.shields.io/badge/Project%20Planning-30302f?style=for-the-badge&color=purple) ![Task Estimation](https://img.shields.io/badge/Task%20Estimation-30302f?style=for-the-badge&color=blue) ![Quality Management](https://img.shields.io/badge/Quality%20Management-30302f?style=for-the-badge&color=green) ![Project Execution](https://img.shields.io/badge/Project%20Execution-30302f?style=for-the-badge&color=orange) ![Scrum](https://img.shields.io/badge/Scrum-30302f?style=for-the-badge&color=purple) ![Risk Management](https://img.shields.io/badge/Risk%20Management-30302f?style=for-the-badge&color=red)
+<details>
+<summary><b>🤖 Artificial Intelligence & Machine Learning</b></summary>
+<br>
+  
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) ![HuggingFace](https://img.shields.io/badge/HuggingFace-F9AB00?style=for-the-badge&logo=huggingface&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white) 
+[cite_start]*Multimodal RAG, LLMs, Vision-Language Models, Transformer-CNN Fusion, LSTMs, BERT, Generative AI, Reinforcement Learning, Time-Series Forecasting* [cite: 17, 27, 42, 106, 107, 109, 117]
+</details>
 
-**Python**
+<details>
+<summary><b>👁️ Computer Vision & Edge Computing</b></summary>
+<br>
+  
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white) ![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=YOLO&logoColor=black) ![NVIDIA](https://img.shields.io/badge/NVIDIA_Jetson-76B900?style=for-the-badge&logo=nvidia&logoColor=white) ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white) ![MediaPipe](https://img.shields.io/badge/MediaPipe-00B2A9?style=for-the-badge&logo=google&logoColor=white)
+[cite_start]*Object Detection, TensorRT, SLAM, Sensor Fusion, Autonomous Navigation, DeepStream SDK, Multi-Camera Tracking, Anomaly Detection* [cite: 30, 31, 113, 123, 127, 148, 244, 250]
+</details>
 
-![Data Analysis](https://img.shields.io/badge/Data%20Analysis-30302f?style=for-the-badge&color=red) ![Programming](https://img.shields.io/badge/Programming-30302f?style=for-the-badge&color=blue) ![DSA](https://img.shields.io/badge/DSA-30302f?style=for-the-badge&color=green) ![DAA](https://img.shields.io/badge/DAA-30302f?style=for-the-badge&color=orange) ![Django](https://img.shields.io/badge/Django-30302f?style=for-the-badge&color=purple) ![Object-relational mapping](https://img.shields.io/badge/Object-relational%20mapping-30302f?style=for-the-badge&color=red) ![Data Visualization](https://img.shields.io/badge/Data%20Visualization-30302f?style=for-the-badge&color=blue) ![Architecture](https://img.shields.io/badge/Architecture-30302f?style=for-the-badge&color=green) ![Web Framework](https://img.shields.io/badge/Web%20Framework-30302f?style=for-the-badge&color=orange) ![Data Cleaning](https://img.shields.io/badge/Data%20Cleaning-30302f?style=for-the-badge&color=purple) ![Debugging](https://img.shields.io/badge/Debugging-30302f?style=for-the-badge&color=red) ![Control Flow](https://img.shields.io/badge/Control%20Flow-30302f?style=for-the-badge&color=blue)
+<details>
+<summary><b>💻 Programming & Software Engineering</b></summary>
+<br>
 
-**Graphic Designing and UI/UX**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+[cite_start]*OOP, Multithreading, Microservices, REST APIs, Design Patterns, SOLID Principles, Data Structures & Algorithms* [cite: 102, 103, 118, 129]
+</details>
 
-![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-30302f?style=for-the-badge&color=green) ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-30302f?style=for-the-badge&color=orange) ![Adobe Firefly](https://img.shields.io/badge/Adobe%20Firefly-30302f?style=for-the-badge&color=purple) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-30302f?style=for-the-badge&color=red) ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-30302f?style=for-the-badge&color=blue) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-30302f?style=for-the-badge&color=green) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-30302f?style=for-the-badge&color=orange) ![Prototyping](https://img.shields.io/badge/Prototyping-30302f?style=for-the-badge&color=purple) ![Wireframing](https://img.shields.io/badge/Wireframing-30302f?style=for-the-badge&color=red)
+<details>
+<summary><b>☁️ Cloud, Big Data & DevOps</b></summary>
+<br>
 
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+[cite_start]*MLOps, CI/CD, Kafka, Hadoop, BigQuery, GPU Cluster Management, Data Warehousing, Batch/Stream Processing* [cite: 117, 126, 146, 147, 148, 246]
+</details>
 
+---
 
-## Let's connect and build amazing things together!
-[![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/Jaivik-Jariwala)
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/jaivik-jariwala/)](https://www.linkedin.com/in/jaivik-jariwala/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=for-the-badge&logo=Twitter&logoColor=white&link=https://twitter.com/Jaivik_Jariwala)](https://twitter.com/Jaivik_Jariwala)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:jaivikjariwala111@gmail.com)](mailto:jaivikjariwala111@gmail.com)
+### 📈 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Jaivik-Jariwala&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Jaivik's GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jaivik-Jariwala&theme=tokyonight&hide_border=true&background=0D1117" alt="Jaivik's GitHub Streak" width="48%" />
+</div>
+<br>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaivik-Jariwala&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="60%" />
+</div>
+
+---
+
+### 🤝 Let's Connect!
+
+<div align="center">
+  <a href="https://linkedin.com/in/jaivik-jariwala/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:jaivikjariwala111@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://jaivik-jariwala.github.io/Portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-252525?style=for-the-badge&logo=mac-os&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://twitter.com/Jaivik_Jariwala">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Jaivik-Jariwala&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</div>
